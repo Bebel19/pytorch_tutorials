@@ -13,11 +13,11 @@ Learn the Basics
     Tensors
     https://docs.pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html
 
-- [ ] data_tutorial.py
+- [x] data_tutorial.py
     Datasets & DataLoaders
     https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
 
-- [ ] transforms_tutorial.py
+- [x] transforms_tutorial.py
     Transforms
     https://pytorch.org/tutorials/beginner/basics/transforms_tutorial.html
 
