@@ -11,7 +11,7 @@ Learn the Basics
 
 - [x] tensorqs_tutorial.py 
     Tensors
-    https://pytorch.org/tutorials/beginner/basics/tensor_tutorial.html
+    https://docs.pytorch.org/tutorials/beginner/basics/tensorqs_tutorial.html
 
 - [ ] data_tutorial.py
     Datasets & DataLoaders
