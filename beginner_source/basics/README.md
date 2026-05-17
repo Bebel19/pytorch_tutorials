@@ -21,7 +21,7 @@ Learn the Basics
     Transforms
     https://pytorch.org/tutorials/beginner/basics/transforms_tutorial.html
 
-- [ ] buildmodel_tutorial.py
+- [x] buildmodel_tutorial.py
     Building the Neural Network
     https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
 
