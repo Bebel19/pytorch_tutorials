@@ -25,7 +25,7 @@ Learn the Basics
     Building the Neural Network
     https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
 
-- [ ] autogradqs_tutorial.py
+- [x] autogradqs_tutorial.py
     Automatic Differentiation with torch.autograd_tutorial
     https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html
 
