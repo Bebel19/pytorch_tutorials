@@ -1,15 +1,15 @@
 Learn the Basics
 ------------------
 
-- [ ] intro.py
+- [x] intro.py
     Learn the Basics
     https://pytorch.org/tutorials/beginner/basics/intro.html
 
-- [ ] quickstart_tutorial.py
+- [x] quickstart_tutorial.py
     Quickstart
     https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html
 
-- [ ] tensorqs_tutorial.py 
+- [x] tensorqs_tutorial.py 
     Tensors
     https://pytorch.org/tutorials/beginner/basics/tensor_tutorial.html
 
