@@ -29,7 +29,7 @@ Learn the Basics
     Automatic Differentiation with torch.autograd_tutorial
     https://docs.pytorch.org/tutorials/beginner/basics/autogradqs_tutorial.html
 
-- [ ] optimization_tutorial.py
+- [x] optimization_tutorial.py
     Optimizing Model Parameters
     https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html
 
